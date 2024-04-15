@@ -1,8 +1,15 @@
-# React + Vite
+# GraphQL Apollo Client Project 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demo the basic of using react with apollo client that queries graphql apollo server on this repo https://github.com/sittimunirahar/graphql-server-app
 
-Currently, two official plugins are available:
+To setup and run this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. `git clone` this repo
+2. `cd`
+3. run `npm install`
+4. run `node --watch index.js` or `npm run dev`
+
+Don't forget to run REST API json server from the server repo and the graphQL server: https://github.com/sittimunirahar/graphql-server-app
+
+Once all three servers running, the UI should look like this:
+
