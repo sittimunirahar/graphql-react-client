@@ -13,7 +13,11 @@ Don't forget to run REST API json server from the server repo and the graphQL se
 
 Once all three servers are running, the UI should look like this:
 
-<img width="473" alt="Screenshot 2024-04-15 at 6 19 48 PM" src="https://github.com/sittimunirahar/graphql-react-client/assets/32325375/a4e80611-466c-4480-9ebd-c88185b57a98">
+<img width="473" alt="Screenshot 2024-04-15 at 6 19 48 PM" src="https://github.com/sittimunirahar/graphql-react-client/assets/32325375/da7ca794-b2e3-4dce-bf81-4bb14007ce8f">
+
+On failure of running graphQL server:
+<img width="269" alt="Screenshot 2024-04-15 at 6 29 55 PM" src="https://github.com/sittimunirahar/graphql-react-client/assets/32325375/b4114f71-3e73-45b3-a7d2-ce819b4f83e7">
+
 
 ## Roadmap
 - [ ] Add tailwind to beautify the UI and move the list to table or list UI
