@@ -1,7 +1,8 @@
 # GraphQL Apollo Client Project 
 
 This project uses react with Apollo client. It sends queries to graphQL Apollo server on this [repo](https://github.com/sittimunirahar/graphql-server-app).
-This project can be used as boilerplate for starting a react project that uses Apollo GraphQL that retrieves data from REST API. 
+
+This project can be used as a boilerplate for a react project that uses Apollo GraphQL and retrieves data from REST API. 
 
 ## Setup
 To setup and run this project:
